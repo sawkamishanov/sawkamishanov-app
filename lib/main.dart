@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-main(List<String> args) => runApp(App());
+void main() => runApp(App());
 
 class App extends StatelessWidget {
   @override
